@@ -1,0 +1,11 @@
+# Dados (baixados do Kaggle, não versionados)
+data/raw/
+data/processed/
+
+# Ambiente e caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Credenciais
+kaggle.json
